@@ -1,27 +1,25 @@
 # 👋 Hi, I'm Hayeong Jang
 
-백엔드 개발자를 목표로 공부하고 있습니다.  
-Java와 객체지향 개념을 기반으로 서버 개발 역량을 키우는 중입니다.
+사용자에게 좋은 경험을 주는 화면을 만드는 프론트엔드 개발자를 목표로 성장하고 있습니다.
 
 ---
 
 ## 🧩 Interests
-- Backend Development
-- Server Architecture
+- Frontend Development
+- UI/UX & Web Accessibility
 - Problem Solving
 
 ---
 
 ## 🛠 Tech Stack
-- Java
-- SQL
+- HTML / CSS / JavaScript
+- React
+- TypeScript
 - Git
 
 ---
 
 ## 📚 Currently Learning
-- Java OOP
-- Spring Framework
-- REST API 설계
-
-
+- React 심화 (상태 관리, 커스텀 훅)
+- TypeScript
+- REST API 연동 & 비동기 처리
