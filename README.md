@@ -24,7 +24,7 @@
 ---
 
 ## 🚀 Activities
-- **UMC (University MakeUs Challenge)** — Web(FE) 파트 챌린저
+- **UMC (University MakeUs Challenge)** — 10기 Web(FE) 파트 챌린저
 
 ---
 
